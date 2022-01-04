@@ -10,11 +10,15 @@ The purpose of this project is to create an Excel spreadsheet to analyze stock m
 
 Overall, the green stocks analysis showed that 2017 was an outstanding year for the stocks analyzed. Nearly all stocks showed a return, and around 36% of the stocks analyzed showed over a 100% return. The results for 2017 are shown below:
 
-![](https://raw.githubusercontent.com/CarlS2rt/stock-analysis/main/VBA_Challenge_2017.png)
+![https://raw.githubusercontent.com/CarlS2rt/stock-analysis/main/images/VBA_Challenge_2017.png](https://raw.githubusercontent.com/CarlS2rt/stock-analysis/main/images/VBA_Challenge_2017.png)
+
+
 
 Green stocks did not fair as well in 2018, however, as only two stocks posted a positive return. Of the remaining stocks, five of the stocks posted a negative return greater than -20%. The results for 2018 are shown below:
 
-![](https://raw.githubusercontent.com/CarlS2rt/stock-analysis/main/VBA_Challenge_2018.png)
+![https://raw.githubusercontent.com/CarlS2rt/stock-analysis/main/images/VBA_Challenge_2018.png](https://raw.githubusercontent.com/CarlS2rt/stock-analysis/main/images/VBA_Challenge_2018.png)
+
+
 
 When looking at the year-over-year trends, the only high performing stock of those analyzed is ENPH, posting a return greater than 80% both years. 
 
@@ -110,15 +114,15 @@ Next i
 
 The code refactoring was successful in improving the execution time of the code. The original execution times are below:
 
-![https://raw.githubusercontent.com/CarlS2rt/stock-analysis/main/VBA_Challenge_2017_Timer_Original.png](https://raw.githubusercontent.com/CarlS2rt/stock-analysis/main/VBA_Challenge_2017_Timer_Original.png)
+![https://raw.githubusercontent.com/CarlS2rt/stock-analysis/main/images/VBA_Challenge_2017_Timer_Original.png](https://raw.githubusercontent.com/CarlS2rt/stock-analysis/main/images/VBA_Challenge_2017_Timer_Original.png)
 
-![https://raw.githubusercontent.com/CarlS2rt/stock-analysis/main/VBA_Challenge_2018_Timer_Original.png](https://raw.githubusercontent.com/CarlS2rt/stock-analysis/main/VBA_Challenge_2018_Timer_Original.png)
+![https://raw.githubusercontent.com/CarlS2rt/stock-analysis/main/images/VBA_Challenge_2018_Timer_Original.png](https://raw.githubusercontent.com/CarlS2rt/stock-analysis/main/images/VBA_Challenge_2018_Timer_Original.png)
 
 The execution times for the refactored code are below:
 
-![https://raw.githubusercontent.com/CarlS2rt/stock-analysis/main/VBA_Challenge_2017_Timer.png](https://raw.githubusercontent.com/CarlS2rt/stock-analysis/main/VBA_Challenge_2017_Timer.png)
+![https://raw.githubusercontent.com/CarlS2rt/stock-analysis/main/images/VBA_Challenge_2017_Timer.png](https://raw.githubusercontent.com/CarlS2rt/stock-analysis/main/images/VBA_Challenge_2017_Timer.png)
 
-![https://raw.githubusercontent.com/CarlS2rt/stock-analysis/main/VBA_Challenge_2018_Timer.png](https://raw.githubusercontent.com/CarlS2rt/stock-analysis/main/VBA_Challenge_2018_Timer.png)
+![https://raw.githubusercontent.com/CarlS2rt/stock-analysis/main/images/VBA_Challenge_2018_Timer.png](https://raw.githubusercontent.com/CarlS2rt/stock-analysis/main/images/VBA_Challenge_2018_Timer.png)
 
 The end result was that the refactored code ran nearly ten times faster than the original code, which is a substantial gain in efficiency.
 
